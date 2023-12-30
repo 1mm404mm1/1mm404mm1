@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1mm404mm1
 - 👀 I’m interested in Engine
 - 🌱 I’m currently learning Maths
-- 💞️ I’m looking to collaborate on Microsoft
+- 💞️ I’m looking to collaborate with other content creators and developers
 - 📫 How to reach me: 1mm404mm1@gmail.com
 
 <!---
